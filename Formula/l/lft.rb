@@ -1,8 +1,8 @@
 class Lft < Formula
   desc "Layer Four Traceroute (LFT), an advanced traceroute tool"
   homepage "https://pwhois.org/lft/"
-  url "https://pwhois.org/dl/index.who?file=lft-3.96.tar.gz"
-  sha256 "abeaf2c8fd607f2c45816a4ddd34f2d0a10d49e1f41f52929b8e67a0cdc24368"
+  url "https://pwhois.org/dl/index.who?file=lft-3.97.tar.gz"
+  sha256 "168532d208599d64179a7b269f151ad0fd1d0d69b2a3318b8a6088b2cfcd6eb6"
   license "VOSTROM"
 
   livecheck do
